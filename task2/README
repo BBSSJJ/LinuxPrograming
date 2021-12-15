@@ -1,0 +1,24 @@
+3.3
+./3.3.o lsoct rwx-wx-wx
+./3.3.o octls 0755
+
+3.6
+./3.6.o filename
+
+3.7
+./3.7.o filename permmission
+
+3.8
+./3.8.o filename
+
+3.10
+./3.10.o filename
+
+3.12
+./3.12.o permission filename
+
+4.1
+./4.1.o path skip(0 or 1)
+
+4.2
+./4.2.o path
